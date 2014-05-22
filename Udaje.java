@@ -8,7 +8,7 @@ package kecalek;
 
 /**
  *
- * @author martin
+ * @author jew
  */
 public class Udaje {
     public String jmeno,heslo;
